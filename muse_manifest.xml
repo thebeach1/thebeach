@@ -1,20 +1,21 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thebeach.food" resolutions="1x" timestamp="1518224984648">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thebeach.food" resolutions="1x" timestamp="1537573023395">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="72870269" ref="index:show:menu"/>
+    <file name="nomq_preview_master_a-master.css" crc="4065898259" ref="index:show:menu"/>
+    <file name="index.css" crc="250170074" ref="index"/>
+    <file name="nomq_index.css" crc="446099808" ref="index"/>
+    <file name="show.css" crc="4021266679" ref="show"/>
+    <file name="nomq_show.css" crc="290181078" ref="show"/>
+    <file name="options.css" crc="230930001" ref="options"/>
+    <file name="nomq_options.css" crc="3765266120" ref="options"/>
+    <file name="menu.css" crc="3781404498" ref="menu"/>
+    <file name="nomq_menu.css" crc="4061683786" ref="menu"/>
+  </folder>
   <folder name="assets">
     <file name="o.jpg" crc="189368734" seo="true" mt="1517826356000"/>
     <file name="bev-menu510x680.jpg" crc="4181850611" seo="true" mt="1517826356000"/>
-  </folder>
-  <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3898996743" ref="menu:index:show"/>
-    <file name="nomq_preview_master_a-master.css" crc="3838761499" ref="menu:index:show"/>
-    <file name="menu.css" crc="317030170" ref="menu"/>
-    <file name="nomq_menu.css" crc="3808906581" ref="menu"/>
-    <file name="options.css" crc="177885518" ref="options"/>
-    <file name="index.css" crc="298473965" ref="index"/>
-    <file name="nomq_index.css" crc="3890911901" ref="index"/>
-    <file name="show.css" crc="3845473171" ref="show"/>
-    <file name="nomq_show.css" crc="290181078" ref="show"/>
-    <file name="nomq_options.css" crc="3765266120" ref="options"/>
+    <file name="beach-menu-(1).pdf" crc="4133551375" seo="true" mt="1537569211000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:show:menu:options"/>
@@ -23,25 +24,25 @@
     <file name="museconfig.js" crc="436936948" ref="index:show:menu:options"/>
     <file name="jquery.musemenu.js" crc="3936200140" ref="index:show:menu:options"/>
     <file name="jquery.watch.js" crc="4178585335" ref="index:show:menu:options"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:options:show:menu"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:show:menu:options"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:show:menu:options"/>
     <file name="jquery.museresponsive.js" crc="52098982" ref="index:show:menu:options"/>
     <file name="require.js" crc="85721165" ref="index:show:menu:options"/>
   </folder>
   <folder name="images">
-    <file name="crop logo.jpg" crc="228386725" ref="index:show:menu:options" seo="true">
+    <file name="crop logo.jpg" crc="228386725" ref="index:show:menu:options">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="show" alt=""/>
-      <caption webpage="show" alt=""/>
-      <caption webpage="show" alt=""/>
-      <caption webpage="show" alt=""/>
       <caption webpage="options" alt=""/>
       <caption webpage="options" alt=""/>
       <caption webpage="options" alt=""/>
+      <caption webpage="show" alt=""/>
+      <caption webpage="show" alt=""/>
+      <caption webpage="show" alt=""/>
+      <caption webpage="show" alt=""/>
       <caption webpage="menu" alt=""/>
       <caption webpage="menu" alt=""/>
       <caption webpage="menu" alt=""/>
@@ -101,9 +102,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="menu" alt=""/>
+      <caption webpage="menu" alt=""/>
       <caption webpage="show" alt=""/>
-      <caption webpage="menu" alt=""/>
-      <caption webpage="menu" alt=""/>
     </file>
     <file name="wall-crop-u131842.jpg" crc="457912674" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -117,42 +118,16 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="u13440-64.png" crc="4245973182" ref="index"/>
+    <file name="menu-alt-512-u27880-fr.png" crc="3841665456" ref="index"/>
     <file name="wall-crop-u131845.jpg" crc="281508902" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u13440-65.png" crc="168980948" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:show:menu:options"/>
-    <file name="o.jpg" crc="189368734" seo="true" ref="menu">
-      <caption webpage="menu" alt=""/>
-      <caption webpage="menu" alt=""/>
-    </file>
-    <file name="bev menu.jpg" crc="65016504" seo="true" ref="menu">
-      <caption webpage="menu" alt=""/>
-      <caption webpage="menu" alt=""/>
-    </file>
-    <file name="o490x654.jpg" crc="16065920" seo="true" ref="menu">
-      <caption webpage="menu" alt=""/>
-    </file>
-    <file name="bev menu490x654.jpg" crc="3973548307" seo="true" ref="menu">
-      <caption webpage="menu" alt=""/>
-    </file>
-    <file name="o400x534.jpg" crc="3868005695" seo="true" ref="menu">
-      <caption webpage="menu" alt=""/>
-    </file>
-    <file name="bev menu-crop-u13064.jpg" crc="4290960015" seo="true" ref="menu">
-      <caption webpage="menu" alt=""/>
-    </file>
-    <file name="o320x427.jpg" crc="263420751" seo="true" ref="menu">
-      <caption webpage="menu" alt=""/>
-    </file>
-    <file name="bev menu320x427.jpg" crc="424948014" seo="true" ref="menu">
-      <caption webpage="menu" alt=""/>
-    </file>
     <file name="crop logo-u13684-fr.jpg" crc="4097103736" ref="options"/>
-    <file name="menu-alt-512-u27880-fr.png" crc="3841665456" ref="index"/>
   </folder>
-  <file name="index.html" crc="151994216" seo="true" mt="1518224921754" redirect="true"/>
-  <file name="show.html" crc="503126546" seo="true" mt="1518224921754" redirect="true"/>
-  <file name="menu.html" crc="431724102" seo="true" mt="1518224921754" redirect="true"/>
-  <file name="options.html" crc="92022808" seo="true" mt="1518224304799" redirect="true"/>
+  <file name="index.html" crc="3837721631" seo="true" mt="1537569103553" redirect="true"/>
+  <file name="show.html" crc="151611137" seo="true" mt="1518224921754" redirect="true"/>
+  <file name="menu.html" crc="29419411" seo="true" mt="1537573005418" redirect="true"/>
+  <file name="options.html" crc="4035055664" seo="true" mt="1518224304799" redirect="true"/>
 </manifest>

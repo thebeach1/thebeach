@@ -2,12 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thebeach.food/index.html</loc>
-    <lastmod>2018-02-09</lastmod>
+    <lastmod>2018-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://thebeach.food/images/crop%20logo.jpg</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://thebeach.food/images/front2.png</image:loc>
     </image:image>
@@ -47,55 +44,28 @@
     <lastmod>2018-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://thebeach.food/images/crop%20logo.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://thebeach.food/menu.html</loc>
-    <lastmod>2018-02-09</lastmod>
+    <lastmod>2018-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://thebeach.food/images/crop%20logo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebeach.food/images/o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebeach.food/images/bev%20menu.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebeach.food/images/o490x654.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebeach.food/images/bev%20menu490x654.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebeach.food/images/o400x534.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebeach.food/images/bev%20menu-crop-u13064.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebeach.food/images/o320x427.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thebeach.food/images/bev%20menu320x427.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://thebeach.food/options.html</loc>
     <lastmod>2018-02-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://thebeach.food/images/crop%20logo.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://thebeach.food/assets/o.jpg</loc>
     <lastmod>2018-02-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://thebeach.food/assets/beach-menu-(1).pdf</loc>
+    <lastmod>2018-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
