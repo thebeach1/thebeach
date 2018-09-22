@@ -1,15 +1,15 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thebeach.food" resolutions="1x" timestamp="1537573023395">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thebeach.food" resolutions="1x" timestamp="1537575196454">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="72870269" ref="index:show:menu"/>
-    <file name="nomq_preview_master_a-master.css" crc="4065898259" ref="index:show:menu"/>
-    <file name="index.css" crc="250170074" ref="index"/>
-    <file name="nomq_index.css" crc="446099808" ref="index"/>
-    <file name="show.css" crc="4021266679" ref="show"/>
-    <file name="nomq_show.css" crc="290181078" ref="show"/>
+    <file name="master_a-master.css" crc="3910251995" ref="index:show:menu"/>
+    <file name="nomq_preview_master_a-master.css" crc="3838761499" ref="index:show:menu"/>
+    <file name="index.css" crc="4087077638" ref="index"/>
+    <file name="nomq_index.css" crc="3899573038" ref="index"/>
+    <file name="show.css" crc="4155481126" ref="show"/>
+    <file name="nomq_show.css" crc="4208785101" ref="show"/>
     <file name="options.css" crc="230930001" ref="options"/>
     <file name="nomq_options.css" crc="3765266120" ref="options"/>
-    <file name="menu.css" crc="3781404498" ref="menu"/>
+    <file name="menu.css" crc="4023634083" ref="menu"/>
     <file name="nomq_menu.css" crc="4061683786" ref="menu"/>
   </folder>
   <folder name="assets">
@@ -30,7 +30,7 @@
     <file name="require.js" crc="85721165" ref="index:show:menu:options"/>
   </folder>
   <folder name="images">
-    <file name="crop logo.jpg" crc="228386725" ref="index:show:menu:options">
+    <file name="crop logo.jpg" crc="228386725" ref="index:show:menu:options" seo="true">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -39,6 +39,8 @@
       <caption webpage="options" alt=""/>
       <caption webpage="options" alt=""/>
       <caption webpage="options" alt=""/>
+      <caption webpage="show" alt=""/>
+      <caption webpage="show" alt=""/>
       <caption webpage="show" alt=""/>
       <caption webpage="show" alt=""/>
       <caption webpage="show" alt=""/>
@@ -105,6 +107,10 @@
       <caption webpage="menu" alt=""/>
       <caption webpage="menu" alt=""/>
       <caption webpage="show" alt=""/>
+      <caption webpage="show" alt=""/>
+      <caption webpage="show" alt=""/>
+      <caption webpage="show" alt=""/>
+      <caption webpage="show" alt=""/>
     </file>
     <file name="wall-crop-u131842.jpg" crc="457912674" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -126,8 +132,8 @@
     <file name="blank.gif" crc="4208392903" ref="index:show:menu:options"/>
     <file name="crop logo-u13684-fr.jpg" crc="4097103736" ref="options"/>
   </folder>
-  <file name="index.html" crc="3837721631" seo="true" mt="1537569103553" redirect="true"/>
-  <file name="show.html" crc="151611137" seo="true" mt="1518224921754" redirect="true"/>
-  <file name="menu.html" crc="29419411" seo="true" mt="1537573005418" redirect="true"/>
-  <file name="options.html" crc="4035055664" seo="true" mt="1518224304799" redirect="true"/>
+  <file name="index.html" crc="3823892076" seo="true" mt="1537573947608" redirect="true"/>
+  <file name="show.html" crc="4244081062" seo="true" mt="1537575176848" redirect="true"/>
+  <file name="menu.html" crc="4229999417" seo="true" mt="1537573889043" redirect="true"/>
+  <file name="options.html" crc="4035055664" seo="true" mt="1537573874055" redirect="true"/>
 </manifest>

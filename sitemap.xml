@@ -6,6 +6,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://thebeach.food/images/crop%20logo.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://thebeach.food/images/front2.png</image:loc>
     </image:image>
     <image:image>
@@ -41,21 +44,30 @@
   </url>
   <url>
     <loc>http://thebeach.food/show.html</loc>
-    <lastmod>2018-02-09</lastmod>
+    <lastmod>2018-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thebeach.food/images/crop%20logo.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://thebeach.food/menu.html</loc>
     <lastmod>2018-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thebeach.food/images/crop%20logo.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://thebeach.food/options.html</loc>
-    <lastmod>2018-02-09</lastmod>
+    <lastmod>2018-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://thebeach.food/images/crop%20logo.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://thebeach.food/assets/o.jpg</loc>
